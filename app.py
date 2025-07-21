@@ -59,7 +59,7 @@ def remove_friend():
     headers = {
         "Content-Type": "application/x-www-form-urlencoded",
         "X-GA": "v1 1",
-        "ReleaseVersion": "OB47",
+        "ReleaseVersion": "OB49",
         "Host": "clientbp.common.ggbluefox.com",
         "Accept-Encoding": "gzip, deflate, br",
         "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
